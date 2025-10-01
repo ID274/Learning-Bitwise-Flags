@@ -1,5 +1,3 @@
-using System.Diagnostics;
-
 public struct DamageInfo
 {
     public int amount;
@@ -13,3 +11,4 @@ public struct DamageInfo
         this.damageTypeFlags = damageTypeFlags;
     }
 }
+

@@ -2,7 +2,7 @@ using UnityEditor;
 using UnityEngine;
 
 /// <summary>
-/// This class was generated using Bing Copilot while debugging.
+/// This class was generated using ChatGPT while debugging.
 /// It serves to serialize the DamageType enum as a checklist rather than a regular dropdown, allowing multiple flags to be checked at once in the inspector.
 /// </summary>
 

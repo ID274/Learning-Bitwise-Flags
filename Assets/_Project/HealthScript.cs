@@ -18,3 +18,5 @@ public class HealthScript : MonoBehaviour, IDamageable
         Debug.Log($"{gameObject.name} took {damageInfo.amount} damage ({damageInfo.damageTypeFlags.ToString()}) from {damageInfo.source}.");
     }
 }
+
+
